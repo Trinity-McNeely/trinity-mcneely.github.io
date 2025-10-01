@@ -1,0 +1,43 @@
+<!-- page3.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sketching - My Creative Outlet</title>
+</head>
+<body>
+  <header>
+    <h1>Sketching: My Favorite Creative Hobby</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="resume.html">Resume</a>
+      <a href="page3.html">Sketching</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Why I Sketch</h2>
+    <p>
+      Sketching helps me slow down and observe the world more carefully. It sharpens my attention to detail—an essential skill for UX design too. Whether it’s doodling in a notebook or capturing urban scenes, sketching clears my mind and boosts creativity.
+    </p>
+
+    <h2>Materials I Use</h2>
+    <ul>
+      <li>Moleskine Sketchbooks</li>
+      <li>Micron pens and graphite pencils</li>
+      <li>Watercolors for quick washes</li>
+    </ul>
+
+    <h2>My Favorite Subjects</h2>
+    <p>
+      I love drawing street scenes, people in cafés, and nature. These quick sketches capture the atmosphere and emotions of a moment.
+    </p>
+
+    <h2>Sample Sketch</h2>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Sketching_on_a_riverbank_-_Art_of_sketching.jpg/800px-Sketching_on_a_riverbank_-_Art_of_sketching.jpg" alt="Sketching sample" />
+  </main>
+  <footer>
+    <p>&copy; 2025 Jane Doe - Sketching Life</p>
+  </footer>
+</body>
+</html>
