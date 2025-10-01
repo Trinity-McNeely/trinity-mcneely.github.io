@@ -1,0 +1,53 @@
+<!-- resume.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Resume - UX Designer</title>
+</head>
+<body>
+  <header>
+    <h1>My Resume</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="resume.html">Resume</a>
+      <a href="page3.html">Sketching</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Contact Information</h2>
+    <p>
+      Name: Jane Doe<br/>
+      Email: jane.doe@example.com<br/>
+      LinkedIn: linkedin.com/in/janedoe<br/>
+      Portfolio: janedoe.design
+    </p>
+
+    <h2>Education</h2>
+    <ul>
+      <li><strong>B.S. in Human-Computer Interaction</strong>, University of Example (2021–2025)</li>
+    </ul>
+
+    <h2>Experience</h2>
+    <ul>
+      <li><strong>UX Design Intern</strong> – Startup Studio (Summer 2024)<br/>
+        Redesigned app onboarding flow, increasing retention by 25%.
+      </li>
+      <li><strong>Freelance Web Designer</strong> – Nonprofit Projects (2023–Present)<br/>
+        Improved accessibility scores and navigation on multiple sites.
+      </li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+      <li>User Research, Wireframing, Prototyping</li>
+      <li>Figma, Adobe XD, HTML/CSS, JavaScript</li>
+      <li>Usability Testing, Accessibility Design</li>
+    </ul>
+  </main>
+  <footer>
+    <p>&copy; 2025 Jane Doe</p>
+  </footer>
+</body>
+</html>
