@@ -1,0 +1,38 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Home - UX Designer Journey</title>
+</head>
+<body>
+  <header>
+    <h1>Welcome to My UX Design Journey</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="resume.html">Resume</a>
+      <a href="page3.html">Sketching</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Why UX Design?</h2>
+    <p>
+      User Experience (UX) design is where creativity meets functionality. I’m passionate about building interfaces that not only look great but feel intuitive. I love blending psychology, design, and technology to create digital experiences that make users feel understood.
+    </p>
+    <h2>My Path So Far</h2>
+    <ul>
+      <li>Studied Human-Computer Interaction and Graphic Design.</li>
+      <li>Interned at a startup to design mobile app interfaces.</li>
+      <li>Worked on redesigning a local nonprofit’s website for accessibility.</li>
+    </ul>
+    <h2>My Design Goals</h2>
+    <p>
+      I'm looking forward to joining a team where I can help design empathetic, inclusive, and user-centered products—ideally at a company like IDEO, Google, or Figma.
+    </p>
+  </main>
+  <footer>
+    <p>&copy; 2025 My UX Portfolio</p>
+  </footer>
+</body>
+</html>
